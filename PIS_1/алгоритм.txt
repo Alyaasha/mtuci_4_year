@@ -1,0 +1,4 @@
+1. pip install django
+2. django-admin startproject PIS_1
+3. python manage.py createsuperuser
+4. python manage.py runserver
